@@ -1,1 +1,1 @@
-# Learn-Pillow
+# 记录Pillow学习过程
